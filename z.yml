@@ -1,0 +1,17 @@
+---
+description: Module for XinaBox SL06 ambient light, colour, gesture and proximity
+    sensor
+fullname: lib.xinabox.sl06
+info:
+    chip_manufacturer: XinaBox
+    chip_name: SL06
+    name: ambient light, colour, gesture, proximity sensor
+    type: Sensor
+keywords:
+- light
+- colour
+- gesture
+- proximity
+- APDS-9960
+title: XinaBox SL06
+...
